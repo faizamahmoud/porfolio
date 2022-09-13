@@ -3,12 +3,12 @@
       "name": "BlackJackStacks",
       "live": "https://github.com/faizamahmoud/blackjackstacks-deploy.git",
       "git": "https://github.com/faizamahmoud/Project-1-Browser-Game",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/pKS66mQ"
     },
     {
       "name": "TravelHub",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://travelhub3.herokuapp.com/login",
+      "git": "https://github.com/maclamour/Project-2-TravelHub",
+      "image": "https://imgur.com/od1sSpS"
     }
   ]
