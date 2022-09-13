@@ -23,6 +23,12 @@ app.get("/projects", (req, res) => {
     // send projects via JSON
     res.json(projects);
   });
+
+  // route for retrieving about info
+app.get("/about", (req, res) => {
+    // send projects via JSON
+    res.json(about);
+  });
   
   //declare a variable for our port number
 const PORT = process.env.PORT || 8000;
